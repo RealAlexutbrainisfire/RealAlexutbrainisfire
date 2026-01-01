@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealAlexutbrainisfire
 - 👀 I’m interested in Gamedev
-- 🌱 I’m currently learning GML
+- 🌱 I’m currently learning GDScript
 - 📫 How to reach me on Gamejolt @Alexutbrainisfire
 - ⚡ Fun fact: I Used Plenty of game engines
 
